@@ -1,0 +1,328 @@
+{
+  "data": [
+    {
+      "id": "1",
+      "username": "JohnTravolta",
+      "email": "travolta_99@gmail.com",
+      "case_number": 445566,
+      "reason": "Logical explanation",
+      "date": "11.12.23",
+      "status": "pending"
+    },
+    {
+      "id": "2",
+      "username": "JohnDoe",
+      "email": "doe_dohn99@gmail.com",
+      "case_number": 445564,
+      "reason": "Rational thinking",
+      "date": "11.02.23",
+      "status": "declined"
+    },
+    {
+      "id": "3",
+      "username": "JaneSmith",
+      "email": "smith_jane99@gmail.com",
+      "case_number": 125564,
+      "reason": "Sound justification",
+      "date": "10.04.23",
+      "status": "approved"
+    },
+    {
+      "id": "4",
+      "username": "SilviaSmith",
+      "email": "silvia_smt99@gmail.com",
+      "case_number": 127964,
+      "reason": "Sensible arguments",
+      "date": "12.01.23",
+      "status": "approved"
+    },
+    {
+      "id": "5",
+      "username": "SimonJackson",
+      "email": "jackson_sim90@gmail.com",
+      "case_number": 198964,
+      "reason": "Valid cause",
+      "date": "01.03.24",
+      "status": "declined"
+    },
+    {
+      "id": "6",
+      "username": "JackRobinson",
+      "email": "robinson44@gmail.com",
+      "case_number": 194584,
+      "reason": "Clear motive",
+      "date": "05.06.23",
+      "status": "pending"
+    },
+    {
+      "id": "7",
+      "username": "JohnTravolta",
+      "email": "travolta_99@gmail.com",
+      "case_number": 445587,
+      "reason": "Clear motive",
+      "date": "11.09.23",
+      "status": "approved"
+    },
+    {
+      "id": "8",
+      "username": "JohnDoe",
+      "email": "doe_dohn99@gmail.com",
+      "case_number": 441123,
+      "reason": "Clear motive",
+      "date": "11.07.23",
+      "status": "declined"
+    },
+    {
+      "id": "9",
+      "username": "JaneSmith",
+      "email": "smith_jane99@gmail.com",
+      "case_number": 125555,
+      "reason": "Sound justification",
+      "date": "17.04.23",
+      "status": "pending"
+    },
+    {
+      "id": "10",
+      "username": "SilviaSmith",
+      "email": "silvia_smt99@gmail.com",
+      "case_number": 127999,
+      "reason": "Sensible arguments",
+      "date": "12.08.23",
+      "status": "declined"
+    },
+    {
+      "id": "11",
+      "username": "SimonJackson",
+      "email": "jackson_sim90@gmail.com",
+      "case_number": 198944,
+      "reason": "Sound justification",
+      "date": "01.02.24",
+      "status": "declined"
+    },
+    {
+      "id": "12",
+      "username": "JackRobinson",
+      "email": "robinson44@gmail.com",
+      "case_number": 194424,
+      "reason": "Clear motive",
+      "date": "05.09.23",
+      "status": "pending"
+    },
+    {
+      "id": "13",
+      "username": "JohnTravolta",
+      "email": "travolta_99@gmail.com",
+      "case_number": 445573,
+      "reason": "Logical explanation",
+      "date": "11.02.23",
+      "status": "approved"
+    },
+    {
+      "id": "14",
+      "username": "JohnDoe",
+      "email": "doe_dohn99@gmail.com",
+      "case_number": 445784,
+      "reason": "Rational thinking",
+      "date": "11.05.23",
+      "status": "pending"
+    },
+    {
+      "id": "15",
+      "username": "JaneSmith",
+      "email": "smith_jane99@gmail.com",
+      "case_number": 198844,
+      "reason": "Sound justification",
+      "date": "10.04.24",
+      "status": "pending"
+    },
+    {
+      "id": "16",
+      "username": "SilviaSmith",
+      "email": "silvia_smt99@gmail.com",
+      "case_number": 127115,
+      "reason": "Sensible arguments",
+      "date": "12.05.23",
+      "status": "approved"
+    },
+    {
+      "id": "17",
+      "username": "SimonJackson",
+      "email": "jackson_sim90@gmail.com",
+      "case_number": 198963,
+      "reason": "Valid cause",
+      "date": "01.03.24",
+      "status": "pending"
+    },
+    {
+      "id": "18",
+      "username": "JackRobinson",
+      "email": "robinson44@gmail.com",
+      "case_number": 111224,
+      "reason": "Clear motive",
+      "date": "05.09.23",
+      "status": "approved"
+    },
+    {
+      "id": "19",
+      "username": "JohnTravolta",
+      "email": "travolta_99@gmail.com",
+      "case_number": 123697,
+      "reason": "Clear motive",
+      "date": "19.01.24",
+      "status": "pending"
+    },
+    {
+      "id": "20",
+      "username": "JohnDoe75",
+      "email": "doe_dohn75@gmail.com",
+      "case_number": 852147,
+      "reason": "Clear motive",
+      "date": "18.08.23",
+      "status": "declined"
+    },
+    {
+      "id": "21",
+      "username": "JohnTravolta11",
+      "email": "travolta_9911@gmail.com",
+      "case_number": 128446,
+      "reason": "Logical explanation",
+      "date": "10.11.23",
+      "status": "pending"
+    },
+    {
+      "id": "22",
+      "username": "JohnDoe98",
+      "email": "doe_dohn1998@gmail.com",
+      "case_number": 446971,
+      "reason": "Rational thinking",
+      "date": "09.09.23",
+      "status": "declined"
+    },
+    {
+      "id": "23",
+      "username": "JaneSmith1",
+      "email": "smith_jane199@gmail.com",
+      "case_number": 129631,
+      "reason": "Sound justification",
+      "date": "10.04.23",
+      "status": "approved"
+    },
+    {
+      "id": "24",
+      "username": "SilviaSmith74",
+      "email": "silvia_smt74@gmail.com",
+      "case_number": 125545,
+      "reason": "Sensible arguments",
+      "date": "12.02.23",
+      "status": "declined"
+    },
+    {
+      "id": "25",
+      "username": "SimonJackson25",
+      "email": "jackson_sim9025@gmail.com",
+      "case_number": 177964,
+      "reason": "Valid cause",
+      "date": "05.04.24",
+      "status": "approved"
+    },
+    {
+      "id": "26",
+      "username": "JackRobinson66",
+      "email": "robinson464@gmail.com",
+      "case_number": 199966,
+      "reason": "Clear motive",
+      "date": "15.07.23",
+      "status": "declined"
+    },
+    {
+      "id": "27",
+      "username": "JohnTravolta124",
+      "email": "travolta_99124@gmail.com",
+      "case_number": 443351,
+      "reason": "Clear motive",
+      "date": "12.06.23",
+      "status": "pending"
+    },
+    {
+      "id": "28",
+      "username": "JohnDoe100",
+      "email": "doe_dohn9100@gmail.com",
+      "case_number": 449032,
+      "reason": "Clear motive",
+      "date": "04.11.23",
+      "status": "pending"
+    },
+    {
+      "id": "29",
+      "username": "JaneSmith67",
+      "email": "smith_jane99@gmail.com",
+      "case_number": 125145,
+      "reason": "Sound justification",
+      "date": "03.07.23",
+      "status": "approved"
+    },
+    {
+      "id": "30",
+      "username": "SilviaSmith74",
+      "email": "silvia_smt74@gmail.com",
+      "case_number": 127551,
+      "reason": "Sensible arguments",
+      "date": "09.08.23",
+      "status": "declined"
+    },
+    {
+      "id": "31",
+      "username": "SimonJackson00",
+      "email": "jackson_sim930@gmail.com",
+      "case_number": 198945,
+      "reason": "Sound justification",
+      "date": "01.01.24",
+      "status": "declined"
+    },
+    {
+      "id": "32",
+      "username": "JackRobinson447",
+      "email": "robinson664@gmail.com",
+      "case_number": 196204,
+      "reason": "Clear motive",
+      "date": "15.09.23",
+      "status": "approved"
+    },
+    {
+      "id": "33",
+      "username": "JohnMarkes",
+      "email": "markes_99@gmail.com",
+      "case_number": 449513,
+      "reason": "Logical explanation",
+      "date": "31.12.23",
+      "status": "declined"
+    },
+    {
+      "id": "34",
+      "username": "JohnDomino",
+      "email": "domino_s99@gmail.com",
+      "case_number": 480784,
+      "reason": "Rational thinking",
+      "date": "28.09.23",
+      "status": "approved"
+    },
+    {
+      "id": "35",
+      "username": "Jonathan777",
+      "email": "jonathan745@gmail.com",
+      "case_number": 125456,
+      "reason": "Sound justification",
+      "date": "26.02.24",
+      "status": "pending"
+    },
+    {
+      "id": "36",
+      "username": "JaneTarzan",
+      "email": "tarzan9_98@gmail.com",
+      "case_number": 102030,
+      "reason": "Sound justification",
+      "date": "09.04.23",
+      "status": "declined"
+    }
+  ]
+}
