@@ -269,60 +269,6 @@
       "reason": "Sensible arguments",
       "date": "09.08.23",
       "status": "declined"
-    },
-    {
-      "id": "31",
-      "username": "SimonJackson00",
-      "email": "jackson_sim930@gmail.com",
-      "case_number": 198945,
-      "reason": "Sound justification",
-      "date": "01.01.24",
-      "status": "declined"
-    },
-    {
-      "id": "32",
-      "username": "JackRobinson447",
-      "email": "robinson664@gmail.com",
-      "case_number": 196204,
-      "reason": "Clear motive",
-      "date": "15.09.23",
-      "status": "approved"
-    },
-    {
-      "id": "33",
-      "username": "JohnMarkes",
-      "email": "markes_99@gmail.com",
-      "case_number": 449513,
-      "reason": "Logical explanation",
-      "date": "31.12.23",
-      "status": "declined"
-    },
-    {
-      "id": "34",
-      "username": "JohnDomino",
-      "email": "domino_s99@gmail.com",
-      "case_number": 480784,
-      "reason": "Rational thinking",
-      "date": "28.09.23",
-      "status": "approved"
-    },
-    {
-      "id": "35",
-      "username": "Jonathan777",
-      "email": "jonathan745@gmail.com",
-      "case_number": 125456,
-      "reason": "Sound justification",
-      "date": "26.02.24",
-      "status": "pending"
-    },
-    {
-      "id": "36",
-      "username": "JaneTarzan",
-      "email": "tarzan9_98@gmail.com",
-      "case_number": 102030,
-      "reason": "Sound justification",
-      "date": "09.04.23",
-      "status": "declined"
     }
   ]
 }
